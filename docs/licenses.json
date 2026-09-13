@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-12T20:16:54.546844+00:00",
+  "generated_at": "2026-09-13T03:35:44.987528+00:00",
   "summary": {
-    "total_complete": 2192,
-    "commercial_ok": 1997,
+    "total_complete": 2197,
+    "commercial_ok": 2002,
     "non_commercial": 173,
     "commercial_unknown": 22,
     "unverified": 26,
@@ -14,13 +14,13 @@
       "display_name": "Open government data",
       "url": null,
       "commercial_use": true,
-      "count": 700
+      "count": 701
     },
     "pd-us": {
       "display_name": "Public domain — 17 U.S.C. 105",
       "url": "https://www.law.cornell.edu/uscode/text/17/105",
       "commercial_use": true,
-      "count": 378
+      "count": 380
     },
     "pd-gov": {
       "display_name": "Public domain (government works)",
@@ -38,7 +38,7 @@
       "display_name": "CC BY 4.0",
       "url": "https://creativecommons.org/licenses/by/4.0/",
       "commercial_use": true,
-      "count": 107
+      "count": 108
     },
     "eur-lex": {
       "display_name": "EUR-Lex reuse notice",
@@ -74,7 +74,7 @@
       "display_name": "Licence Ouverte 2.0",
       "url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
       "commercial_use": true,
-      "count": 37
+      "count": 38
     },
     "unverified": {
       "display_name": "Unverified — needs research",
@@ -4684,6 +4684,15 @@
       "commercial_use": true
     },
     {
+      "id": "ES/TEAC",
+      "country": "ES",
+      "name": "Spanish Tax Administrative Tribunal (TEAC)",
+      "license_id": "ogd",
+      "license_name": "Spanish PSI reuse regulations",
+      "license_url": "https://datos.gob.es/en/terms",
+      "commercial_use": true
+    },
+    {
       "id": "ES/Valencia",
       "country": "ES",
       "name": "Valencia Regional Legislation (DOGV)",
@@ -5704,6 +5713,15 @@
       "id": "FR/ASN",
       "country": "FR",
       "name": "French Nuclear Safety Authority (ASN/ASNR)",
+      "license_id": "licence-ouverte-2.0",
+      "license_name": "Licence Ouverte 2.0 / Open Licence (Etalab)",
+      "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+      "commercial_use": true
+    },
+    {
+      "id": "FR/AssembleeNationale",
+      "country": "FR",
+      "name": "French National Assembly (Assemblée Nationale)",
       "license_id": "licence-ouverte-2.0",
       "license_name": "Licence Ouverte 2.0 / Open Licence (Etalab)",
       "license_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
@@ -16852,6 +16870,15 @@
       "commercial_use": true
     },
     {
+      "id": "US/GA-Legislation",
+      "country": "US",
+      "name": "Official Code of Georgia Annotated (O.C.G.A.)",
+      "license_id": "pd-us",
+      "license_name": "Public domain — 17 U.S.C. § 105",
+      "license_url": "https://www.law.cornell.edu/uscode/text/17/105",
+      "commercial_use": true
+    },
+    {
       "id": "US/GA-PSC",
       "country": "US",
       "name": "Georgia Public Service Commission — Orders",
@@ -18310,6 +18337,15 @@
       "commercial_use": true
     },
     {
+      "id": "US/OH-Legislation",
+      "country": "US",
+      "name": "Ohio Revised Code (LAWriter)",
+      "license_id": "pd-us",
+      "license_name": "Public domain — 17 U.S.C. § 105",
+      "license_url": "https://www.law.cornell.edu/uscode/text/17/105",
+      "commercial_use": true
+    },
+    {
       "id": "US/OH-SERB",
       "country": "US",
       "name": "Ohio State Employment Relations Board — Opinions",
@@ -19567,6 +19603,15 @@
       "license_id": "ogd",
       "license_name": "Official Vietnamese legislation — public government data from the Ministry of Justice. Vietnamese legal documents are official state acts and not subject to copyright under Vietnamese Intellectual Property Law (Art. 15.1).",
       "license_url": null,
+      "commercial_use": true
+    },
+    {
+      "id": "VN/ThuVienPhapLuat",
+      "country": "VN",
+      "name": "Thu Vien Phap Luat (Legal Library)",
+      "license_id": "cc-by-4.0",
+      "license_name": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
       "commercial_use": true
     },
     {
