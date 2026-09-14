@@ -1,10 +1,10 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-13T18:35:39.607771+00:00",
+  "generated_at": "2026-09-13T22:10:51.691408+00:00",
   "summary": {
-    "total_complete": 2180,
-    "commercial_ok": 1986,
-    "non_commercial": 172,
+    "total_complete": 2182,
+    "commercial_ok": 1987,
+    "non_commercial": 173,
     "commercial_unknown": 22,
     "unverified": 26,
     "unique_license_ids": 30
@@ -26,7 +26,7 @@
       "display_name": "Public domain (government works)",
       "url": null,
       "commercial_use": true,
-      "count": 367
+      "count": 368
     },
     "custom-terms": {
       "display_name": "Custom terms of use",
@@ -62,7 +62,7 @@
       "display_name": "Custom non-commercial terms",
       "url": null,
       "commercial_use": false,
-      "count": 41
+      "count": 42
     },
     "odbl-1.0": {
       "display_name": "ODbL 1.0",
@@ -11803,6 +11803,15 @@
       "commercial_use": true
     },
     {
+      "id": "NC/Juridoc-Juris",
+      "country": "NC",
+      "name": "New Caledonia Jurisprudence (Juridoc)",
+      "license_id": "custom-nc",
+      "license_name": "Government of New Caledonia — Juridoc terms",
+      "license_url": "https://juridoc.gouv.nc/",
+      "commercial_use": false
+    },
+    {
       "id": "NC/Juridoc-Textes",
       "country": "NC",
       "name": "New Caledonia Consolidated Legal Texts (Juridoc)",
@@ -13222,6 +13231,15 @@
       "license_id": "ogd",
       "license_name": "https://pravo.gov.ru/",
       "license_url": "https://pravo.gov.ru/",
+      "commercial_use": true
+    },
+    {
+      "id": "RU/RegionalLegislation",
+      "country": "RU",
+      "name": "Russian Federation Subjects — Regional Legislation (pravo.gov.ru)",
+      "license_id": "pd-gov",
+      "license_name": "Russian official document — public domain (Civil Code art. 1259(6))",
+      "license_url": "http://publication.pravo.gov.ru/",
       "commercial_use": true
     },
     {
