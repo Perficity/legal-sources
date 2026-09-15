@@ -1,9 +1,9 @@
 {
   "schema_version": 2,
-  "generated_at": "2026-09-15T13:12:38.144961+00:00",
+  "generated_at": "2026-09-15T18:01:23.105827+00:00",
   "summary": {
-    "total_complete": 2191,
-    "commercial_ok": 1996,
+    "total_complete": 2194,
+    "commercial_ok": 1999,
     "non_commercial": 173,
     "commercial_unknown": 22,
     "unverified": 26,
@@ -26,7 +26,7 @@
       "display_name": "Public domain (government works)",
       "url": null,
       "commercial_use": true,
-      "count": 372
+      "count": 373
     },
     "custom-terms": {
       "display_name": "Custom terms of use",
@@ -44,7 +44,7 @@
       "display_name": "EUR-Lex reuse notice",
       "url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html",
       "commercial_use": true,
-      "count": 64
+      "count": 65
     },
     "ogl-3.0": {
       "display_name": "OGL v3.0",
@@ -76,17 +76,17 @@
       "commercial_use": true,
       "count": 38
     },
+    "cc0-1.0": {
+      "display_name": "CC0 1.0",
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercial_use": true,
+      "count": 26
+    },
     "unverified": {
       "display_name": "Unverified — needs research",
       "url": null,
       "commercial_use": null,
       "count": 26
-    },
-    "cc0-1.0": {
-      "display_name": "CC0 1.0",
-      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "commercial_use": true,
-      "count": 25
     },
     "ogl-canada": {
       "display_name": "Open Government Licence — Canada",
@@ -5080,6 +5080,15 @@
       "commercial_use": true
     },
     {
+      "id": "EU/EP-Questions",
+      "country": "EU",
+      "name": "European Parliament — Parliamentary Questions (written questions & answers)",
+      "license_id": "eur-lex",
+      "license_name": "EU institutional reuse (Decision 2011/833/EU)",
+      "license_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+      "commercial_use": true
+    },
+    {
       "id": "EU/EP-Resolutions",
       "country": "EU",
       "name": "European Parliament — Non-Legislative Resolutions",
@@ -8624,6 +8633,15 @@
       "license_name": "OPCW Terms of Use",
       "license_url": "https://www.opcw.org/legal",
       "commercial_use": false
+    },
+    {
+      "id": "INTL/OpenLegalData",
+      "country": "INTL",
+      "name": "Open Legal Data Platform (DE/EU Case Law)",
+      "license_id": "cc0-1.0",
+      "license_name": "CC0 / Public Domain",
+      "license_url": "https://github.com/openlegaldata/oldp",
+      "commercial_use": true
     },
     {
       "id": "INTL/PCA",
@@ -19288,6 +19306,15 @@
       "license_id": "pd-us",
       "license_name": "Public domain — 17 U.S.C. § 105",
       "license_url": "https://www.law.cornell.edu/uscode/text/17/105",
+      "commercial_use": true
+    },
+    {
+      "id": "US/eCFR",
+      "country": "US",
+      "name": "eCFR - Electronic Code of Federal Regulations",
+      "license_id": "pd-gov",
+      "license_name": "Public domain (US government works).",
+      "license_url": null,
       "commercial_use": true
     },
     {
